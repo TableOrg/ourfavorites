@@ -2,3 +2,4 @@ chicken
 steak
 emu
 fish
+hotdog
